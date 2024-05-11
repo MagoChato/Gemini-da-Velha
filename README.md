@@ -1,8 +1,4 @@
-# React + Vite
+Gemini da Velha é um simples jogo da velha contra a inteligência artificial do google.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A app foi desenvolvida em JavaScript utilizando o Vite com React para renderizar o front-end já conectado com a API do Gemini.
+Para rodar a app é necessário possuir a instalação estável mais recente do node.js e então rodar em um terminal já dentro da pasta do projeto o comando "npm i" para instalar as dependências do projeto, por fim rodar o comando "npm run dev". Porém a maneira mais rápida de testar o projeto seria pelo link "https://gemini-da-velha.vercel.app/".
